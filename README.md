@@ -1,0 +1,3 @@
+使用redis的RedisAtomicLong实现分布式系统自增序列
+
+测试请执行 RedisAutomaticDemoApplicationTests.getIdTest()
